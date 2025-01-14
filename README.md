@@ -3,9 +3,10 @@ Name: Zohaib Shaikh\
 Huskers email address: zshaikh2@huskers.unl.edu\
 GitHub URL: https://github.com/Zohaib2421/BTAADataViz-BarChartRace \
 Binder URL: https://notebooks.gesis.org/binder/jupyter/user/zohaib2421-btaa-iz-barchartrace-90vco5o5/doc/tree/BarChartRace.ipynb \
-Description: The Bar Chart Race visualizes the dynamic ranking of national parks by recreation visits over time.
 
-The Bar Chart Race visualizes the dynamic ranking of national parks by recreation visits over time. It showcases which parks have grown in popularity and which have seen declines, offering insights into trends and changing preferences.
+## Description:
+The Bar Chart Race visualizes the dynamic ranking of national parks by recreation visits over time.
+It showcases which parks have grown in popularity and which have seen declines, offering insights into trends and changing preferences.
 
 ## How to Interact
 Click the play and stop buttons.\
