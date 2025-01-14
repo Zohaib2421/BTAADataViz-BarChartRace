@@ -1,4 +1,8 @@
 #  BTAADataViz-BarChartRace
+## Thumbnail
+![ZohaibShaikhBarChartRaceThumbnail](https://github.com/user-attachments/assets/dac18bb2-d152-47e3-808c-165cce30f082)
+
+
 Name: Zohaib Shaikh\
 Huskers email address: zshaikh2@huskers.unl.edu\
 GitHub URL: https://github.com/Zohaib2421/BTAADataViz-BarChartRace \
